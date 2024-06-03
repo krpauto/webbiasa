@@ -47,7 +47,7 @@ session_start();
     <?php include('message.php'); ?>
 
     <div class="register-box-body">
-      <p class="login-box-msg">Daftar Akun Kamu 😁</p>
+      <p class="login-box-msg">Daftar Akun Kamu</p>
 
       <form action="aksi-login-register.php" method="POST">
         <div class="form-group">
