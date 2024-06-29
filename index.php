@@ -11,7 +11,7 @@ include './include/sidebar.php';
     <br>
     <div class="alert bg-gray alert-dismissible">
       <h4><i class="icon fa fa-check"></i> Selamat Datang, <?= ucwords($_SESSION['nama']); ?>!</h4>
-      Ini adalah dashboard admin.
+      Dashboard admin.
     </div>
   </section>
 
