@@ -24,7 +24,7 @@ include './include/sidebar.php';
             <table class="table table-bordered table-striped" id="dataTable1">
               <thead>
                 <tr>
-                  <th width="5%">No</th>
+                  <th width="7%">No</th>
                   <th width="12%">Nama Pengupload</th>
                   <th>Judul Pengumuman</th>
                   <th>Tanggal Upload</th>
