@@ -67,6 +67,7 @@ session_start();
             <option value="sma">SMA</option>
             <option value="d3">D3</option>
             <option value="s1">S1</option>
+            <option value="s2">S2</option>
           </select>
         </div>
         <div class="form-group">
