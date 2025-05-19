@@ -94,6 +94,7 @@ include './include/sidebar.php';
 
                             echo "<span class='info-box-number'>$row3 Pengumuman</span>";
                             ?>
+
             </span>
           </div>
         </div>
